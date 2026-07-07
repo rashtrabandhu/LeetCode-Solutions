@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
