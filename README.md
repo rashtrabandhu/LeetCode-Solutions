@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -100,4 +104,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
