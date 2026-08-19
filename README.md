@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
