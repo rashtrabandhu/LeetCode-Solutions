@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
