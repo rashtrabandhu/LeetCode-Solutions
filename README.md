@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rashtrabandhu/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
